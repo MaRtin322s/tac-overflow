@@ -36,11 +36,14 @@ html {
 }
 
 .terms {
+  overflow: vertical;
   height: 400px;
   padding: 70px;
 }
 
 .button-container {
+  overflow: vertical-scroll;
   margin-top: 50px;
   text-align: center;
 }
+
